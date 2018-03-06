@@ -14,6 +14,7 @@ example :
 python recommend.py 12341
 
 output :
+
 2121
 
 2222
